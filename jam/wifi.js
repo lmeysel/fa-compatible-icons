@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'jam';
+var iconName = 'wifi';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 212.01172 -0.1484375 C 135.97247 0.22144285 60.361179 31.408079 5.4824219 92.337891 A 21.33 21.33 0 0 0 37.177734 120.83398 L 37.177734 120.85547 C 124.71605 23.633329 274.53793 15.783482 371.80273 103.25781 A 232.7103 232.7103 0 0 1 389.42188 120.87695 A 21.32584 21.32584 0 1 0 421.11914 92.337891 C 414.57083 85.064361 407.63666 78.132294 400.3418 71.583984 C 346.53021 23.191547 279.10517 -0.47480251 212.01172 -0.1484375 z M 212.80664 85.255859 A 181.36899 181.36899 0 0 0 68.255859 157.73438 A 21.33 21.33 0 0 0 102.38477 183.33203 A 138.70899 138.70899 0 0 1 324.2168 183.33203 A 21.33 21.33 0 1 0 358.34375 157.73438 A 181.36899 181.36899 0 0 0 212.80664 85.255859 z M 213.44141 173.64844 A 92.89215 92.89215 0 0 0 130.24023 224.94531 A 21.33 21.33 0 0 0 168.37891 244.01562 A 50.18949 50.18949 0 0 1 258.2207 244.01562 A 21.33 21.33 0 1 0 296.35938 224.94531 A 92.89215 92.89215 0 0 0 213.44141 173.64844 z M 213.30078 255.78906 A 21.33 21.33 0 0 0 213.30078 298.44922 A 21.33 21.33 0 0 0 213.30078 255.78906 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.jamWifi = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

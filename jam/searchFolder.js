@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'jam';
+var iconName = 'search-folder';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 63.701172 0 A 63.99 63.99 0 0 0 0 63.990234 L 0 277.28906 A 63.99 63.99 0 0 0 63.990234 341.2793 A 21.33 21.33 0 0 0 63.990234 298.61914 A 21.33 21.33 0 0 1 42.660156 277.28906 L 42.660156 63.990234 A 21.33 21.33 0 0 1 63.990234 42.660156 L 170.64062 42.660156 A 21.35133 21.35133 0 0 1 190.77539 56.865234 L 200.82227 85.320312 L 362.60938 85.320312 A 21.33 21.33 0 0 1 383.93945 106.65039 L 383.93945 277.28906 A 21.33 21.33 0 0 1 362.60938 298.61914 A 21.33 21.33 0 0 0 362.60938 341.2793 A 63.99 63.99 0 0 0 426.59961 277.28906 L 426.59961 106.65039 A 63.99 63.99 0 0 0 362.60938 42.660156 L 231.00391 42.660156 C 222.19462 17.810706 198.4976 0 170.64062 0 L 63.990234 0 A 63.99 63.99 0 0 0 63.701172 0 z M 196.51953 143.57031 A 106.65 106.65 0 0 0 121.51758 174.8418 A 106.69266 106.69266 0 0 0 255.73242 339.24023 L 317.58203 401.06836 A 21.33 21.33 0 0 0 347.76367 370.92773 L 285.9082 309.07227 A 106.65 106.65 0 0 0 196.51953 143.57031 z M 197.04297 186.23242 A 64.010502 64.010502 0 0 1 242.18164 295.50586 L 242.16016 295.48438 A 63.99542 63.99542 0 0 1 151.65625 204.98047 A 64.010502 64.010502 0 0 1 197.04297 186.23242 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.jamSearchFolder = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

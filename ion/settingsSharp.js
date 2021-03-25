@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'ion';
+var iconName = 'settings-sharp';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 209.93945 26 A 11.93 11.93 0 0 0 198.42969 35.859375 L 189.86914 96.640625 A 176.56 176.56 0 0 0 151.05078 119.31055 L 93.800781 96.310547 A 11.64 11.64 0 0 0 79.660156 101.24023 L 33.599609 180.75977 A 11.59 11.59 0 0 0 36.230469 195.53906 L 84.919922 233.66016 A 165.53 165.53 0 0 0 83.279297 256 A 174.58 174.58 0 0 0 84.919922 278.66992 L 36.230469 316.78906 A 11.59 11.59 0 0 0 33.599609 331.57031 L 79.660156 411.08008 A 11.64 11.64 0 0 0 93.800781 416 L 151.05078 393 A 169.3 169.3 0 0 0 189.86914 415.68945 L 198.42969 476.4707 A 12 12 0 0 0 209.93945 486 L 302.06055 486 A 11.93 11.93 0 0 0 313.57031 476.14062 L 322.13086 415.35938 A 176.56 176.56 0 0 0 360.94922 392.68945 L 418.19922 415.68945 A 11.64 11.64 0 0 0 432.33984 410.75977 L 478.40039 331.24023 A 11.59 11.59 0 0 0 475.76953 316.46094 L 427.08008 278.33984 A 165.53 165.53 0 0 0 428.7207 256 A 174.58 174.58 0 0 0 427.08008 233.33984 L 475.76953 195.2207 A 11.59 11.59 0 0 0 478.40039 180.43945 L 432.33984 100.91992 A 11.64 11.64 0 0 0 418.19922 96 L 361 119 A 169.3 169.3 0 0 0 322.13086 96.310547 L 313.57031 35.529297 A 12 12 0 0 0 302.06055 26 L 209.93945 26 z M 256 176 A 80.24 80.24 0 0 1 336 256 A 80 80 0 1 1 256 176 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.ionSettingsSharp = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

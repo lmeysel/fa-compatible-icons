@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'la';
+var iconName = 'utensil-spoon-solid';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 372.16797 63.994141 C 371.27966 63.982909 370.39063 63.984376 369.5 64 C 362.37501 64.12496 355.12501 65.125008 348 66.5 C 319.5625 71.937504 291.0625 86.437504 270 107.5 C 248.9375 128.5625 239.0625 153.37501 240 177.5 C 240.75008 196.3125 248.0625 214.12501 259.5 229.5 L 68.5 420.5 L 91.5 443.5 L 282.5 252.5 C 297.87501 263.9375 315.6875 271.25 334.5 272 C 358.62501 272.93744 383.4375 263.0625 404.5 242 C 425.5625 220.9375 440.0625 192.4375 445.5 164 C 450.9375 135.5625 447.5 105.5 427 85 C 416.75 74.75 404.1875 68.812496 390.5 66 C 384.53906 64.796882 378.38611 64.072759 372.16797 63.994141 z M 369.5 96 C 374.4375 95.93744 379.1875 96.12496 383.5 97 C 392.12501 98.687504 399.3125 102.3125 404.5 107.5 C 414.87501 117.87501 418.6875 136.3125 414.5 158 C 410.3125 179.6875 398 203 382 219 C 366 235 350.8125 240.5625 336 240 C 321.1875 239.43744 306.12501 232.12501 293 219 C 279.87501 205.87501 272.5625 190.8125 272 176 C 271.43744 161.1875 277 146 293 130 C 309 114 332.3125 101.6875 354 97.5 C 359.4375 96.437504 364.5625 96.062496 369.5 96 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.laUtensilSpoonSolid = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

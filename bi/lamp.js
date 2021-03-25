@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'bi';
+var iconName = 'lamp';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 255.91406 9.8574219 A 8 8 0 0 0 248.83203 14.304688 L 240 32 L 272 32 L 263.16797 14.304688 A 8 8 0 0 0 255.91406 9.8574219 z M 96 64 A 32 32 0 0 0 64 96 L 64 224 A 32 32 0 0 0 96 256 L 416 256 A 32 32 0 0 0 448 224 L 448 96 A 32 32 0 0 0 416 64 L 96 64 z M 96 96 L 416 96 L 416 224 L 96 224 L 96 96 z M 220.32031 288 C 193.02431 339.04 160 406.08 160 432 C 160 476.16 202.976 512 256 512 C 309.024 512 352 476.16 352 432 C 352 406.08 318.97569 339.04 291.67969 288 L 220.32031 288 z M 239.58398 320 L 239.61523 320 L 272.38477 320 C 283.16877 340.672 294.0472 362.55919 302.7832 382.36719 C 308.4152 395.03919 312.96 406.36889 316 415.71289 C 317.536 420.38489 318.59167 424.22442 319.26367 427.23242 A 43.104 43.104 0 0 1 320 432 C 320 453.28 297.056 480 256 480 C 214.944 480 192 453.28 192 432 C 192 432 192.00091 431.58395 192.12891 430.75195 C 192.22491 429.88795 192.44758 428.73642 192.76758 427.23242 C 193.40758 424.22442 194.46475 420.38489 195.96875 415.71289 C 199.04075 406.40089 203.58359 395.03919 209.18359 382.36719 C 217.95159 362.52719 228.83198 340.672 239.58398 320 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.biLamp = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

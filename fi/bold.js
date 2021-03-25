@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'fi';
+var iconName = 'bold';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 127.98047 63.990234 A 21.332133 21.332133 0 0 0 106.65039 85.320312 L 106.65039 255.85742 L 106.65039 255.96094 L 106.65039 426.59961 A 21.332133 21.332133 0 0 0 127.98047 447.92969 L 319.94922 447.92969 C 378.59774 447.92969 426.59961 399.92782 426.59961 341.2793 C 426.59961 301.37559 404.37421 266.40709 371.69727 248.12695 C 392.3355 228.64659 405.26953 201.07986 405.26953 170.64062 C 405.26953 111.9921 357.26766 63.990234 298.61914 63.990234 L 127.98047 63.990234 z M 149.31055 106.65039 L 298.61914 106.65039 C 334.21249 106.65039 362.60937 135.04728 362.60938 170.64062 C 362.60938 206.23397 334.21249 234.63086 298.61914 234.63086 L 149.31055 234.63086 L 149.31055 106.65039 z M 149.31055 277.28906 L 298.61914 277.28906 L 319.94922 277.28906 C 355.54257 277.28906 383.93945 305.68595 383.93945 341.2793 C 383.93945 376.87264 355.54257 405.26953 319.94922 405.26953 L 149.31055 405.26953 L 149.31055 277.28906 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.fiBold = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

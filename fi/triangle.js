@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'fi';
+var iconName = 'triangle';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 255.96094 41.0625 C 234.71313 41.0625 213.46389 51.13269 201.24805 71.271484 A 21.332133 21.332133 0 0 0 201.1875 71.373047 L 20.521484 372.97852 A 21.332133 21.332133 0 0 0 20.349609 373.27344 C -3.6276904 414.79665 27.114635 468.73083 75.060547 469.25781 A 21.332133 21.332133 0 0 0 75.294922 469.25977 L 436.625 469.25977 A 21.332133 21.332133 0 0 0 436.85938 469.25781 C 484.80529 468.73083 515.54761 414.79665 491.57031 373.27344 A 21.332133 21.332133 0 0 0 491.39844 372.97852 L 310.73242 71.373047 A 21.332133 21.332133 0 0 0 310.67188 71.271484 C 298.45603 51.13269 277.20874 41.0625 255.96094 41.0625 z M 255.96094 82.533203 C 262.88319 82.533203 269.80461 86.154839 274.19727 93.396484 L 454.63477 394.62109 C 463.27564 409.60871 453.7057 426.39881 436.40625 426.59961 L 75.513672 426.59961 C 58.214219 426.39881 48.644279 409.60871 57.285156 394.62109 L 237.72266 93.396484 C 242.11531 86.154839 249.03869 82.533203 255.96094 82.533203 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.fiTriangle = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'jam';
+var iconName = 'mask-f';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 117.31445 18.300781 A 117.315 117.315 0 0 0 117.31445 252.93164 C 143.76365 252.93164 175.75998 245.42242 213.30078 230.38477 C 250.84158 245.42242 282.83596 252.93164 309.28516 252.93164 A 117.315 117.315 0 0 0 309.28516 18.300781 C 282.83596 18.300781 250.84158 25.554194 213.30078 40.058594 C 175.75998 25.554194 143.76365 18.300781 117.31445 18.300781 z M 127.98047 103.62109 C 151.55012 103.62109 170.64062 117.93266 170.64062 135.61523 C 170.64062 153.27647 151.55012 167.61133 127.98047 167.61133 C 104.41082 167.61133 85.320312 153.27647 85.320312 135.61523 C 85.320312 117.93266 104.41082 103.62109 127.98047 103.62109 z M 298.61914 103.62109 C 322.18879 103.62109 341.2793 117.93266 341.2793 135.61523 C 341.2793 153.27647 322.18879 167.61133 298.61914 167.61133 C 275.04949 167.61133 255.96094 153.27647 255.96094 135.61523 C 255.96094 117.93266 275.04949 103.62109 298.61914 103.62109 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.jamMaskF = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

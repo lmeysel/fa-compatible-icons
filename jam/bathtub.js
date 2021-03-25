@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'jam';
+var iconName = 'bathtub';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 106.22266 -0.00390625 A 85.32 85.32 0 0 0 21.330078 85.320312 L 21.330078 213.30078 A 21.33 21.33 0 0 0 21.330078 255.96094 L 21.330078 277.28906 A 128.02266 128.02266 0 0 0 106.65039 397.99609 L 106.65039 405.26953 A 21.33 21.33 0 0 0 149.31055 405.26953 L 277.28906 405.26953 A 21.33 21.33 0 0 0 319.94922 405.26953 L 319.94922 397.99609 A 128.02266 128.02266 0 0 0 405.26953 277.28906 L 405.26953 255.96094 A 21.33 21.33 0 0 0 405.26953 213.30078 L 63.990234 213.30078 L 63.990234 85.320312 A 42.66 42.66 0 0 1 135.01953 53.474609 C 117.91287 64.950149 106.65039 84.488521 106.65039 106.65039 L 106.65039 149.31055 L 234.63086 149.31055 L 234.63086 106.65039 A 63.99 63.99 0 0 0 181.02734 43.513672 A 85.32 85.32 0 0 0 106.22266 -0.00390625 z M 170.64062 85.320312 A 21.33 21.33 0 0 1 191.9707 106.65039 L 149.31055 106.65039 A 21.33 21.33 0 0 1 170.64062 85.320312 z M 63.990234 255.96094 L 362.60938 255.96094 L 362.60938 277.28906 A 85.32 85.32 0 0 1 277.28906 362.60938 L 149.31055 362.60938 A 85.32 85.32 0 0 1 63.990234 277.28906 L 63.990234 255.96094 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.jamBathtub = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

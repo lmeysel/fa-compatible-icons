@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'ion';
+var iconName = 'paw-sharp';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 183.98828 48 A 56 72 0 0 0 128 120 A 56 72 0 0 0 184 192 A 56 72 0 0 0 240 120 A 56 72 0 0 0 184 48 A 56 72 0 0 0 183.98828 48 z M 327.98828 48 A 56 72 0 0 0 272 120 A 56 72 0 0 0 328 192 A 56 72 0 0 0 384 120 A 56 72 0 0 0 328 48 A 56 72 0 0 0 327.98828 48 z M 71.988281 144 A 56 72 0 0 0 16 216 A 56 72 0 0 0 72 288 A 56 72 0 0 0 128 216 A 56 72 0 0 0 72 144 A 56 72 0 0 0 71.988281 144 z M 439.98828 144 A 56 72 0 0 0 384 216 A 56 72 0 0 0 440 288 A 56 72 0 0 0 496 216 A 56 72 0 0 0 440 144 A 56 72 0 0 0 439.98828 144 z M 256.06055 192 C 208.01055 192 191.84922 222.37945 162.44922 272.68945 C 151.79922 290.89945 135.44922 301.03953 118.19922 311.76953 C 98.399219 324.07953 77.929609 336.77031 69.099609 361.82031 A 78.06 78.06 0 0 0 64 390.10938 C 64 430.84938 96.450391 464 132.40039 464 C 168.35039 464 215.71016 445.86914 256.16016 445.86914 C 296.61016 445.86914 343.31094 464 379.71094 464 C 416.11094 464 448 430.84938 448 390.10938 A 78.3 78.3 0 0 0 442.80078 361.82031 C 434.00078 336.72031 413.48945 323.99922 393.68945 311.69922 C 376.45945 300.98922 360.19078 290.86922 349.55078 272.69922 C 320.22078 222.36922 304.11055 192 256.06055 192 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.ionPawSharp = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

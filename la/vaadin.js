@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'la';
+var iconName = 'vaadin';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 64 64 C 54.4 64 48 70.4 48 80 L 48 120 C 48 150.4 73.6 176 104 176 L 217.59375 176 C 230.39375 176 240 185.60625 240 198.40625 L 240 208 C 240 217.6 246.4 224 256 224 C 265.6 224 272 217.6 272 208 L 272 198.40625 C 272 185.60625 281.60625 176 294.40625 176 L 408 176 C 438.4 176 464 150.4 464 120 L 464 80 C 464 70.4 457.6 64 448 64 C 438.4 64 432 70.4 432 80 L 432 89.59375 C 432 102.39375 422.39375 112 409.59375 112 L 304 112 C 276.8 112 256 132.8 256 160 C 256 132.8 235.2 112 208 112 L 102.40625 112 C 89.60625 112 80 102.39375 80 89.59375 L 80 80 C 80 70.4 73.6 64 64 64 z M 344.0918 240.32812 C 335.76875 240.42574 327.5875 245.11247 323.1875 252.8125 L 256 374.40625 L 188.8125 252.8125 C 184.0125 244.4125 174.70001 239.6125 165.625 240.4375 C 162.60001 240.71254 159.6125 241.58758 156.8125 243.1875 C 145.6125 249.5875 140.7875 263.9875 147.1875 275.1875 L 235.1875 435.1875 C 238.3875 443.1875 248 448 256 448 C 264 448 273.6125 443.1875 276.8125 435.1875 L 364.8125 275.1875 C 371.2125 263.9875 366.38754 249.5875 355.1875 243.1875 C 351.6875 241.1875 347.875 240.28376 344.0918 240.32812 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.laVaadin = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

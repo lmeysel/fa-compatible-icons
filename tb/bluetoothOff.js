@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'tb';
+var iconName = 'bluetooth-off';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 64.042969 42.660156 A 21.33 21.33 0 0 0 48.908203 48.908203 A 21.33 21.33 0 0 0 48.908203 79.072266 L 224.03516 254.19922 L 136.02734 324.60352 A 21.33 21.33 0 0 0 132.69727 354.58398 A 21.33 21.33 0 0 0 162.67773 357.91406 L 234.63086 300.35156 L 234.63086 426.59961 A 21.332133 21.332133 0 0 0 269.2832 443.25586 L 349.18164 379.3457 L 432.84766 463.01172 A 21.33 21.33 0 0 0 463.01172 463.01172 A 21.33 21.33 0 0 0 463.01172 432.84766 L 272.03516 241.87109 A 21.33 21.33 0 0 0 270.06836 239.9043 L 79.072266 48.908203 A 21.33 21.33 0 0 0 64.042969 42.660156 z M 255.98047 63.992188 A 21.332133 21.332133 0 0 0 234.63086 85.320312 L 234.63086 170.64062 A 21.33 21.33 0 0 0 255.96094 191.9707 A 21.33 21.33 0 0 0 277.28906 170.64062 L 277.28906 129.69922 L 328.46094 170.63867 L 290.07617 201.33398 A 21.33 21.33 0 0 0 286.74023 231.31445 A 21.33 21.33 0 0 0 316.7207 234.65039 L 375.93164 187.29883 A 21.332133 21.332133 0 0 0 375.93555 153.98438 L 269.28516 68.664062 A 21.332133 21.332133 0 0 0 255.98047 63.992188 z M 277.28906 307.45312 L 318.83008 348.99414 L 277.28906 382.22461 L 277.28906 307.45312 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.tbBluetoothOff = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

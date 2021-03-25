@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'las';
+var iconName = 'bell-slash-solid';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 59.5 36.5 L 36.5 59.5 L 452.5 475.5 L 475.5 452.5 L 416 393 L 416 368 L 400 368 C 391.1875 368 384 360.8125 384 352 L 384 212.5 C 384 151.25 342.6875 99.25 287.5 84.5 C 287.6875 83 288 81.562496 288 80 C 288 62.312496 273.6875 48 256 48 C 238.3125 48 224 62.312496 224 80 C 224 81.375008 224.31248 82.687504 224.5 84 C 203.0625 89.437504 183.3125 100.1875 167 116 C 162.1875 120.62501 157.9375 125.8125 154 131 L 59.5 36.5 z M 254 111.85938 C 255.6875 111.87501 257.375 111.93752 259 112 C 310.3125 113.5625 352 158.5625 352 212.5 L 352 329 L 177 154 C 180.5625 148.75 184.3125 143.5 189 139 C 205.4375 123 226.4375 113.5625 249 112 C 250.625 111.875 252.3125 111.84374 254 111.85938 z M 128.5 196 C 128.12501 200.0625 128 203.87501 128 208 L 128 352 C 128 360.8125 120.8125 368 112 368 L 96 368 L 96 400 L 211 400 C 209.1875 405.0625 208 410.37501 208 416 C 208 442.3125 229.6875 464 256 464 C 282.3125 464 304 442.3125 304 416 C 304 410.37501 302.81248 405.0625 301 400 L 333 400 L 301 368 L 157 368 C 158.8125 363 160 357.62501 160 352 L 160 227 L 128.5 196 z M 256 400 C 265 400 272 407 272 416 C 272 425 265 432 256 432 C 247 432 240 425 240 416 C 240 407 247 400 256 400 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.lasBellSlashSolid = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

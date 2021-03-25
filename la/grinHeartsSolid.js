@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'las';
+var iconName = 'grin-hearts-solid';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 256 64 C 150.12501 64 64 150.12501 64 256 C 64 361.87501 150.12501 448 256 448 C 361.87501 448 448 361.87501 448 256 C 448 150.12501 361.87501 64 256 64 z M 256 96 C 344.5625 96 416 167.4375 416 256 C 416 344.5625 344.5625 416 256 416 C 167.4375 416 96 344.5625 96 256 C 96 167.4375 167.4375 96 256 96 z M 168 176 C 154.75 176 144 186.75 144 200 C 144 201.5 144.12496 202.9375 144.5 204.5 C 145.1875 208.3125 146.75 211.5625 149 214.5 C 161 235.1875 192 256 192 256 C 192 256 240 225.5 240 200 C 240 186.75 229.25 176 216 176 C 202.75 176 192 186.75 192 200 C 192 186.75 181.25 176 168 176 z M 296 176 C 282.75 176 272 186.75 272 200 C 272 201.5 272.1248 202.9375 272.5 204.5 C 273.18752 208.3125 274.75 211.5625 277 214.5 C 289 235.1875 320 256 320 256 C 320 256 351.8125 235.37501 363.5 214 C 366.0625 209.25 368 204.62501 368 200 C 368 186.75 357.25 176 344 176 C 330.75 176 320 186.75 320 200 C 320 186.75 309.25 176 296 176 z M 173 304 L 145.5 320 C 167.62501 358.1875 208.75 384 256 384 C 303.25 384 344.37501 358.1875 366.5 320 L 339 304 C 322.37501 332.6875 291.62501 352 256 352 C 220.37501 352 189.62501 332.6875 173 304 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.lasGrinHeartsSolid = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

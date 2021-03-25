@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'la';
+var iconName = 'venus-double-solid';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 176 48 C 105.4375 48 48 105.4375 48 176 C 48 241.12501 96.937504 295.0625 160 303 L 160 368 L 96 368 L 96 400 L 160 400 L 160 464 L 192 464 L 192 400 L 320 400 L 320 464 L 352 464 L 352 400 L 416 400 L 416 368 L 352 368 L 352 303 C 415.0625 295.0625 464 241.12501 464 176 C 464 105.4375 406.5625 48 336 48 C 311.6875 48 288.87501 55.187504 269.5 67 C 277.8125 74.125008 285.5 82.187504 292 91 C 305.25 84.125008 320.0625 80 336 80 C 388.9375 80 432 123.0625 432 176 C 432 228.9375 388.9375 272 336 272 C 283.0625 272 240 228.9375 240 176 C 240 163.25 242.5 151.12501 247 140 C 241.62501 129.37501 233.87501 120.25 224.5 113 C 213.9375 131.62501 208 153.0625 208 176 C 208 241.12501 256.9375 295.0625 320 303 L 320 368 L 192 368 L 192 302.5 C 210.3125 300.1875 227.4375 294.1875 242.5 285 C 234.1875 277.87501 226.5 269.8125 220 261 C 206.75 267.87501 191.9375 272 176 272 C 123.0625 272 80 228.9375 80 176 C 80 123.0625 123.0625 80 176 80 C 228.9375 80 272 123.0625 272 176 C 272 188.75 269.5 200.87501 265 212 C 270.37501 222.62501 278.12501 231.75 287.5 239 C 298.0625 220.37501 304 198.9375 304 176 C 304 105.4375 246.5625 48 176 48 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.laVenusDoubleSolid = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

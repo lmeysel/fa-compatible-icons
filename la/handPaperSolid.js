@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'las';
+var iconName = 'hand-paper-solid';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 256 32 C 233.87501 32 215.5 47.5 210 68 C 204.37501 65.687504 198.4375 64 192 64 C 165.6875 64 144 85.687504 144 112 L 144 284 L 130 270 C 111.37501 251.37501 80.625008 251.37501 62 270 C 43.375008 288.62501 43.375008 319.37501 62 338 L 170.5 446.5 C 189.3125 465.25 215.3125 480 246 480 L 320 480 C 381.6875 480 432 429.6875 432 368 L 432 176 C 432 149.6875 410.3125 128 384 128 C 378.37501 128 373.0625 129.1875 368 131 L 368 112 C 368 85.687504 346.3125 64 320 64 C 313.5625 64 307.62501 65.687504 302 68 C 296.5 47.5 278.12501 32 256 32 z M 256 64 C 265.0625 64 272 70.937504 272 80 L 272 240 L 304 240 L 304 112 C 304 102.9375 310.9375 96 320 96 C 329.0625 96 336 102.9375 336 112 L 336 240 L 368 240 L 368 176 C 368 166.9375 374.9375 160 384 160 C 393.0625 160 400 166.9375 400 176 L 400 368 C 400 412.37501 364.37501 448 320 448 L 246 448 C 225.62501 448 208.12501 438.0625 193.5 423.5 L 84.5 315.5 C 78.125008 309.12501 78.125008 298.87501 84.5 292.5 C 90.875008 286.12501 101.12501 286.12501 107.5 292.5 L 148.5 334 L 176 361.5 L 176 112 C 176 102.9375 182.9375 96 192 96 C 201.0625 96 208 102.9375 208 112 L 208 240 L 240 240 L 240 80 C 240 70.937504 246.9375 64 256 64 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.lasHandPaperSolid = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

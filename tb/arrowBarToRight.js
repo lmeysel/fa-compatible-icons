@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'tb';
+var iconName = 'arrow-bar-to-right';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 426.59961 63.990234 A 21.33 21.33 0 0 0 405.26953 85.320312 L 405.26953 426.59961 A 21.33 21.33 0 0 0 426.59961 447.92969 A 21.33 21.33 0 0 0 447.92969 426.59961 L 447.92969 85.320312 A 21.33 21.33 0 0 0 426.59961 63.990234 z M 213.35352 149.31055 A 21.33 21.33 0 0 0 198.2168 155.55664 A 21.33 21.33 0 0 0 198.2168 185.72266 L 247.125 234.63086 L 85.320312 234.63086 A 21.33 21.33 0 0 0 63.990234 255.96094 A 21.33 21.33 0 0 0 85.320312 277.28906 L 247.125 277.28906 L 198.2168 326.19727 A 21.33 21.33 0 0 0 198.2168 356.36328 A 21.33 21.33 0 0 0 228.38281 356.36328 L 313.62695 271.11914 A 21.33 21.33 0 0 0 313.70312 271.04297 A 21.33 21.33 0 0 0 313.9375 270.80273 A 21.33 21.33 0 0 0 313.97461 270.76562 A 21.33 21.33 0 0 0 319.57812 259.92969 A 21.33 21.33 0 0 0 319.57812 259.92578 A 21.33 21.33 0 0 0 319.58789 259.875 A 21.33 21.33 0 0 0 318.10547 247.28711 A 21.33 21.33 0 0 0 317.96875 246.98242 A 21.33 21.33 0 0 0 315.76367 243.26953 A 21.33 21.33 0 0 0 315.5625 243.00195 A 21.33 21.33 0 0 0 315.53516 242.9668 A 21.33 21.33 0 0 0 315.5293 242.95898 A 21.33 21.33 0 0 0 315.51562 242.94336 A 21.33 21.33 0 0 0 313.70312 240.87695 L 228.38281 155.55664 A 21.33 21.33 0 0 0 213.35352 149.31055 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.tbArrowBarToRight = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

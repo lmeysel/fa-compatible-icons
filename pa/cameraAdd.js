@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'pa';
+var iconName = 'camera-add';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 63.990234 42.660156 L 63.990234 106.65039 L 0 106.65039 L 0 149.31055 L 63.990234 149.31055 L 63.990234 213.30078 L 106.65039 213.30078 L 106.65039 149.31055 L 170.64062 149.31055 L 170.64062 106.65039 L 106.65039 106.65039 L 106.65039 42.660156 L 63.990234 42.660156 z M 213.30078 63.990234 L 213.30078 106.65039 L 319.94922 106.65039 L 319.94922 149.31055 L 426.59961 149.31055 L 426.59961 405.26953 L 106.65039 405.26953 L 106.65039 255.96094 L 63.990234 255.96094 L 63.990234 447.92969 L 469.25977 447.92969 L 469.25977 106.65039 L 362.60938 106.65039 L 362.60938 63.990234 L 213.30078 63.990234 z M 213.30078 191.9707 L 213.30078 234.63086 L 298.61914 234.63086 L 298.61914 191.9707 L 213.30078 191.9707 z M 298.61914 234.63086 L 298.61914 319.94922 L 341.2793 319.94922 L 341.2793 234.63086 L 298.61914 234.63086 z M 298.61914 319.94922 L 213.30078 319.94922 L 213.30078 362.60938 L 298.61914 362.60938 L 298.61914 319.94922 z M 213.30078 319.94922 L 213.30078 234.63086 L 170.64062 234.63086 L 170.64062 319.94922 L 213.30078 319.94922 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.paCameraAdd = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'ion';
+var iconName = 'color-fill';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 130.28516 32 A 52.1 52.1 0 0 0 93.289062 47.220703 L 88.779297 51.730469 A 53.2 53.2 0 0 0 72.890625 89.060547 A 51.66 51.66 0 0 0 88.140625 126 L 129.65039 167.5 L 45 252 A 44.52 44.52 0 0 0 32 284 A 42.81 42.81 0 0 0 45.5 314.83984 L 176.74023 440.83984 A 44 44 0 0 0 237.82031 440.66016 L 361.92969 320.38086 A 15.6 15.6 0 0 1 370.16016 316.08984 A 69.21 69.21 0 0 1 382.08984 315.23047 L 382.39062 315.23047 A 22.53 22.53 0 0 0 398.23047 276.64062 L 166.89062 47.220703 A 52.1 52.1 0 0 0 130.28516 32 z M 130.16992 63.958984 A 20.07 20.07 0 0 1 144.31055 69.839844 L 186 111.21094 L 152.28906 144.84961 L 110.75977 103.33008 A 20 20 0 0 1 110.75977 74.990234 L 115.91992 69.839844 A 20.07 20.07 0 0 1 130.16992 63.958984 z M 415.90625 320.04688 A 19.94 19.94 0 0 0 400.75977 327.16992 C 399.56977 328.56992 397.95008 330.38047 396.08008 332.48047 C 380.67008 349.72047 352 381.82914 352 415.11914 C 352 450.88914 380.71 480 416 480 C 451.29 480 480 450.89039 480 415.15039 C 480 381.61039 451.16992 349.39961 435.66992 332.09961 C 433.93992 330.16961 432.44055 328.47992 431.31055 327.16992 A 19.94 19.94 0 0 0 415.90625 320.04688 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.ionColorFill = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

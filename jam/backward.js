@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'jam';
+var iconName = 'backward';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 170.45117 0.005859375 A 41.93478 41.93478 0 0 0 138.85742 14.716797 L 10.623047 163.30273 A 44.04645 44.04645 0 0 0 10.623047 220.63672 L 138.85742 369.22266 A 42.16941 42.16941 0 0 0 170.76758 383.93945 C 194.25191 383.93945 213.30078 364.50828 213.30078 340.55469 L 213.30078 43.384766 C 213.30078 30.928046 208.05276 19.069317 198.88086 10.835938 A 41.93478 41.93478 0 0 0 170.45117 0.005859375 z M 383.75 0.005859375 A 41.93478 41.93478 0 0 0 352.1582 14.716797 L 223.92188 163.30273 A 44.04645 44.04645 0 0 0 223.92188 220.63672 L 352.1582 369.22266 A 42.16941 42.16941 0 0 0 384.06836 383.93945 C 407.55269 383.93945 426.59961 364.50828 426.59961 340.55469 L 426.59961 43.384766 C 426.59961 30.928046 421.35354 19.069317 412.18164 10.835938 A 41.93478 41.93478 0 0 0 383.75 0.005859375 z M 170.76758 43.384766 L 170.76758 340.55469 L 42.53125 191.9707 L 170.76758 43.384766 z M 384.06836 43.384766 L 384.06836 340.55469 L 255.83203 191.9707 L 384.06836 43.384766 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.jamBackward = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

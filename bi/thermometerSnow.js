@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'bi';
+var iconName = 'thermometer-snow';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 111.94141 0 A 80 80 0 0 0 32 80 L 32 321.59961 A 112 112 0 1 0 192 321.59961 L 192 80 A 80 80 0 0 0 111.94141 0 z M 112 32 A 48 48 0 0 1 160 80 L 160 335.55273 L 165.3125 340.38477 A 80 80 0 1 1 58.65625 340.38477 L 64 335.58398 L 64 80 A 48 48 0 0 1 112 32 z M 272 64 A 16 16 0 0 0 256 80 L 256 432 A 16 16 0 0 0 288 432 L 288 390.62305 L 308.67188 411.32812 A 16.020211 16.020211 0 0 0 331.32812 388.67188 L 288 345.37695 L 288 283.71289 L 341.43945 314.56055 L 357.24805 373.69531 A 16 16 0 1 0 388.16016 365.43945 L 380.57617 337.18359 L 416.41602 357.85547 A 16 16 0 0 0 432.41602 330.14453 L 396.57617 309.47266 L 424.83203 301.88867 A 16 16 0 1 0 416.57617 270.97656 L 357.4082 286.81641 L 304 256 L 357.4082 225.18359 L 416.54492 241.02344 A 16.006047 16.006047 0 1 0 424.86328 210.11133 L 396.57617 202.52734 L 432.41602 181.85547 A 16 16 0 0 0 416.41602 154.14453 L 380.57617 174.81641 L 388.16016 146.5918 A 16.006047 16.006047 0 1 0 357.24805 138.27148 L 341.4082 197.47266 L 288 228.28711 L 288 166.62305 L 331.32812 123.32812 A 16.020211 16.020211 0 1 0 308.67188 100.67188 L 288 121.37695 L 288 80 A 16 16 0 0 0 272 64 z M 112.09375 288 A 16 16 0 0 0 96 304 L 96 354.7207 A 48 48 0 1 0 160 400 A 48 48 0 0 0 128 354.7207 L 128 304 A 16 16 0 0 0 112.09375 288 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.biThermometerSnow = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

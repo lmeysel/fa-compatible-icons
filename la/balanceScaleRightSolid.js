@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'las';
+var iconName = 'balance-scale-right-solid';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 135.625 81.75 L 119.84375 110.03125 L 48 235.75 L 48 240 C 48 284.112 83.888 320 128 320 C 172.112 320 208 284.112 208 240 L 208 235.75 L 140.625 117.8125 L 208.09375 143.125 C 208.08825 143.42367 208 143.70004 208 144 C 208 164.82574 221.41998 182.43422 240 189.0625 L 240 384 L 176 384 L 176 416 L 240 416 L 272 416 L 272 384 L 272 189.0625 C 280.02694 186.19896 286.98908 181.27764 292.40625 174.90625 L 367.84375 204.25 L 304 316 L 304 320.25 C 304 364.346 339.888 400 384 400 C 428.112 400 464 364.346 464 320.25 L 464 316 L 384 176 L 303.90625 145 C 303.91325 144.65933 304 144.34235 304 144 C 304 117.536 282.464 96 256 96 C 241.30858 96 228.31245 102.78591 219.5 113.21875 L 135.625 81.75 z M 256 128 C 264.832 128 272 135.184 272 144 C 272 152.816 264.832 160 256 160 C 247.168 160 240 152.816 240 144 C 240 135.184 247.168 128 256 128 z M 128 160.25 L 164.4375 224 L 91.5625 224 L 128 160.25 z M 384 240.5 L 420.28125 304 L 347.71875 304 L 384 240.5 z M 82.96875 256 L 173.03125 256 C 166.40334 274.58627 148.83476 288 128 288 C 107.16524 288 89.596659 274.58627 82.96875 256 z M 338.875 336 L 429.125 336 C 422.56851 354.71789 404.92899 368.25 384 368.25 C 363.07101 368.25 345.43149 354.71789 338.875 336 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.lasBalanceScaleRightSolid = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

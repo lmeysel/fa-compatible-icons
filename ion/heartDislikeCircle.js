@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'ion';
+var iconName = 'heart-dislike-circle';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 256 48 C 141.31 48 48 141.31 48 256 C 48 370.69 141.31 464 256 464 C 370.69 464 464 370.69 464 256 C 464 141.31 370.69 48 256 48 z M 160.32617 160.28906 A 16 16 0 0 1 171.30078 164.68945 L 347.30078 340.68945 A 16 16 0 0 1 347.31055 363.31055 L 347.30078 363.31055 A 16 16 0 0 1 324.67969 363.31055 L 148.67969 187.31055 A 16 16 0 0 1 160.32617 160.28906 z M 205.96875 168 A 4 4 0 0 1 206 168 L 207.55078 168 C 227.95078 168 242.55016 178.63992 251.66016 188.41992 A 5.93 5.93 0 0 0 260.35938 188.41992 C 269.46938 178.63992 284.0707 168 304.4707 168 C 334.7807 168 359.69 193.27008 360 224.33008 C 360.26 250.26008 351.47922 274.29945 333.19922 297.68945 A 3.92 3.92 0 0 1 327.19922 298.06055 L 203.19922 174.84961 A 4 4 0 0 1 205.96875 168 z M 155.875 219.75586 A 4 4 0 0 1 158.81055 220.91992 L 279.75977 341.11914 A 4 4 0 0 1 279.30078 347.18945 C 274.89078 350.38945 270.14023 353.73945 264.99023 357.18945 A 15.93 15.93 0 0 1 246.99023 357.18945 C 207.69023 330.50945 190.66906 312.1893 181.28906 300.7793 C 161.28906 276.4093 151.71023 251.3793 151.99023 224.2793 L 151.99023 223.64062 A 4 4 0 0 1 155.875 219.75586 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.ionHeartDislikeCircle = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

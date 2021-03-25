@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'ion';
+var iconName = 'volume-mute-sharp';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 64 57.373047 L 41.373047 80 L 52.685547 91.314453 L 404.68555 443.31445 L 416 454.62695 L 438.62695 432 L 427.31445 420.68555 L 75.314453 68.685547 L 64 57.373047 z M 256 72 L 182.40039 130.7793 L 256 204.36914 L 256 72 z M 420.88086 73.900391 L 393.88086 91.119141 L 402.49023 104.60938 C 429.82023 147.37938 448 189.5 448 256 C 448 304.76 438.59969 340.00078 423.17969 371.55078 L 446.88086 395.25 C 470.16086 351.39 480 309 480 256 C 480 181.74 459.81023 134.89062 429.49023 87.390625 L 420.88086 73.900391 z M 373.75977 122.11914 L 346.11914 138.24023 L 354.17969 152.06055 C 373.06969 184.44055 384 211.83 384 256 C 384 281.93 380.11 302.21008 373 321.33008 L 397.5 345.83984 C 409.19 319.67984 416 292.42 416 256 C 416 204.81 402.92031 172.10945 381.82031 135.93945 L 373.75977 122.11914 z M 327 170.4707 L 298.48047 185 L 305.75 199.25 C 315.34 218.06 320 236.62 320 256 A 112.91 112.91 0 0 1 319.36914 267.74023 L 346.68945 295.06055 A 148.8 148.8 0 0 0 352 256 C 352 231.44 346.19 208.12047 334.25 184.73047 L 327 170.4707 z M 32 176.09961 L 32 335.90039 L 125.65039 335.90039 L 256 440 L 256 339.63086 L 92.470703 176.09961 L 32 176.09961 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.ionVolumeMuteSharp = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

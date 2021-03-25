@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'jam';
+var iconName = 'tumblr-square';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 85.320312 0 A 85.32 85.32 0 0 0 0 85.320312 L 0 341.2793 A 85.32 85.32 0 0 0 85.320312 426.59961 L 341.2793 426.59961 A 85.32 85.32 0 0 0 426.59961 341.2793 L 426.59961 85.320312 A 85.32 85.32 0 0 0 341.2793 0 L 85.320312 0 z M 85.320312 42.660156 L 341.2793 42.660156 A 42.66 42.66 0 0 1 383.93945 85.320312 L 383.93945 341.2793 A 42.66 42.66 0 0 1 341.2793 383.93945 L 85.320312 383.93945 A 42.66 42.66 0 0 1 42.660156 341.2793 L 42.660156 85.320312 A 42.66 42.66 0 0 1 85.320312 42.660156 z M 198.04883 106.65039 C 193.29224 133.99545 174.62926 156.77621 149.31055 167.95312 L 149.31055 204.55469 L 178.87305 204.55469 L 178.87305 274.75195 C 178.87305 284.49976 188.3862 319.94922 236.89062 319.94922 C 265.36617 319.94922 277.16211 302.24609 277.16211 302.24609 L 265.36719 276.28711 C 265.36719 276.28711 258.8182 283.53906 246.38281 283.53906 C 233.92609 283.53906 228.35938 276.28727 228.35938 265.51562 L 228.35938 204.55469 L 268.60938 204.55469 L 268.60938 167.58984 L 228.35938 167.58984 L 228.35938 106.65039 L 198.04883 106.65039 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.jamTumblrSquare = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

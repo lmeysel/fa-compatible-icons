@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'las';
+var iconName = 'fill-solid';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 181 52.5 L 158.5 75.5 L 187 104 L 76.5 214.5 C 57.562496 233.4375 57.562496 264.5625 76.5 283.5 L 77.5 284.5 L 179 385.5 C 197.9375 404.4375 229.0625 404.4375 248 385.5 L 369.5 264 L 381 253 L 225.5 97.5 L 213 84.5 L 209.5 81.5 L 181 52.5 z M 210 127 L 336 253 L 225.5 363 C 218.8125 369.6875 208.1875 369.6875 201.5 363 L 99.5 260.5 C 92.812496 253.8125 92.812496 243.6875 99.5 237 L 210 127 z M 400 308 L 387 327 C 387 327 378.37501 339.0625 370 353.5 C 365.8125 360.75 361.87501 368.3125 358.5 376 C 355.12501 383.6875 352 390.75 352 400 C 352 426.3125 373.6875 448 400 448 C 426.3125 448 448 426.3125 448 400 C 448 390.75 444.87501 383.6875 441.5 376 C 438.12501 368.3125 434.1875 360.75 430 353.5 C 421.62501 339.0625 413 327 413 327 L 400 308 z M 400 366 C 401.06256 367.75 400.93744 367.62501 402 369.5 C 405.8125 376.0625 409.87501 383.0625 412.5 389 C 415.12501 394.9375 416 400.4375 416 400 C 416 408.87501 408.87501 416 400 416 C 391.12501 416 384 408.87501 384 400 C 384 400.43744 384.87504 394.9375 387.5 389 C 390.12501 383.0625 394.1875 376.0625 398 369.5 C 399.06256 367.62501 398.93744 367.75 400 366 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.lasFillSolid = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

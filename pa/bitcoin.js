@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'pa';
+var iconName = 'bitcoin';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 191.9707 63.990234 L 191.9707 106.65039 L 106.65039 106.65039 L 106.65039 149.31055 L 149.31055 149.31055 L 149.31055 234.63086 L 106.65039 234.63086 L 106.65039 277.28906 L 149.31055 277.28906 L 149.31055 362.60938 L 106.65039 362.60938 L 106.65039 405.26953 L 191.9707 405.26953 L 191.9707 447.92969 L 234.63086 447.92969 L 234.63086 405.26953 L 277.28906 405.26953 L 277.28906 447.92969 L 319.94922 447.92969 L 319.94922 405.26953 L 362.60938 405.26953 L 362.60938 362.60938 L 191.9707 362.60938 L 191.9707 277.28906 L 362.60938 277.28906 L 362.60938 234.63086 L 191.9707 234.63086 L 191.9707 149.31055 L 362.60938 149.31055 L 362.60938 106.65039 L 319.94922 106.65039 L 319.94922 63.990234 L 277.28906 63.990234 L 277.28906 106.65039 L 234.63086 106.65039 L 234.63086 63.990234 L 191.9707 63.990234 z M 362.60938 149.31055 L 362.60938 234.63086 L 405.26953 234.63086 L 405.26953 149.31055 L 362.60938 149.31055 z M 362.60938 277.28906 L 362.60938 362.60938 L 405.26953 362.60938 L 405.26953 277.28906 L 362.60938 277.28906 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.paBitcoin = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

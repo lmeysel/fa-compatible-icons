@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'jam';
+var iconName = 'dna';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 21.224609 0 A 21.33 21.33 0 0 0 0 21.330078 L 0 106.65039 A 127.85202 127.85202 0 0 0 57.207031 213.30078 A 127.85202 127.85202 0 0 0 0 319.94922 L 0 405.26953 A 21.33 21.33 0 0 0 42.660156 405.26953 L 213.30078 405.26953 A 21.33 21.33 0 0 0 255.96094 405.26953 L 255.96094 319.94922 A 127.85202 127.85202 0 0 0 198.75391 213.30078 A 127.85202 127.85202 0 0 0 255.96094 106.65039 L 255.96094 21.330078 A 21.33 21.33 0 0 0 213.30078 21.330078 L 42.660156 21.330078 A 21.33 21.33 0 0 0 21.224609 0 z M 42.660156 63.990234 L 213.30078 63.990234 L 213.30078 106.65039 L 42.660156 106.65039 L 42.660156 63.990234 z M 54.072266 149.31055 L 201.88867 149.31055 C 187.12831 174.82123 159.54887 191.9707 127.98047 191.9707 A 85.27734 85.27734 0 0 1 54.072266 149.31055 z M 127.98047 234.63086 A 85.27734 85.27734 0 0 1 201.88867 277.28906 L 54.072266 277.28906 C 68.832626 251.77838 96.412069 234.63086 127.98047 234.63086 z M 42.660156 319.94922 L 213.30078 319.94922 L 213.30078 362.60938 L 42.660156 362.60938 L 42.660156 319.94922 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.jamDna = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

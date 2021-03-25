@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'jam';
+var iconName = 'torch';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 85.320312 0 C 28.433203 53.90091 0 96.561379 0 127.98047 A 84.93606 84.93606 0 0 0 11.412109 170.64062 L 0 170.64062 L 0 234.63086 A 42.66 42.66 0 0 0 28.773438 274.98633 L 39.630859 426.70703 A 45.81684 45.81684 0 0 0 131.00977 426.70703 L 141.84375 274.98633 A 42.66 42.66 0 0 0 170.64062 234.63086 L 170.64062 170.64062 L 159.22852 170.64062 C 166.48072 158.09859 170.64062 143.53004 170.64062 127.98047 C 170.64062 96.561379 142.20742 53.90091 85.320312 0 z M 85.320312 60.619141 C 97.201123 73.566451 106.71352 85.426797 113.81641 96.091797 C 123.77752 111.0228 127.98047 121.98674 127.98047 127.98047 A 42.66 42.66 0 0 1 42.660156 127.98047 C 42.660156 121.98674 46.83998 111.0228 56.84375 96.091797 L 56.822266 96.091797 A 300.41172 300.41172 0 0 1 85.320312 60.619141 z M 42.660156 213.30078 L 127.98047 213.30078 L 127.98047 234.63086 L 101.31836 243.80273 L 88.476562 423.67773 A 3.15684 3.15684 0 0 1 82.164062 423.67773 L 69.322266 243.80273 L 42.660156 234.63086 L 42.660156 213.30078 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.jamTorch = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

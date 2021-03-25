@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'jam';
+var iconName = 'settings-alt';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 63.884766 0 A 21.33 21.33 0 0 0 42.660156 21.330078 L 42.660156 106.65039 L 21.330078 106.65039 A 21.33 21.33 0 0 0 21.330078 149.31055 L 42.660156 149.31055 L 42.660156 319.94922 A 21.33 21.33 0 0 0 85.320312 319.94922 L 85.320312 149.31055 L 106.65039 149.31055 A 21.33 21.33 0 0 0 106.65039 106.65039 L 85.320312 106.65039 L 85.320312 21.330078 A 21.33 21.33 0 0 0 63.884766 0 z M 213.19336 0 A 21.33 21.33 0 0 0 191.9707 21.330078 L 191.9707 255.96094 L 170.64062 255.96094 A 21.33 21.33 0 0 0 170.64062 298.61914 L 191.9707 298.61914 L 191.9707 319.94922 A 21.33 21.33 0 0 0 234.63086 319.94922 L 234.63086 298.61914 L 255.96094 298.61914 A 21.33 21.33 0 0 0 255.96094 255.96094 L 234.63086 255.96094 L 234.63086 21.330078 A 21.33 21.33 0 0 0 213.19336 0 z M 362.50391 0 A 21.33 21.33 0 0 0 341.2793 21.330078 L 341.2793 42.660156 L 319.94922 42.660156 A 21.33 21.33 0 0 0 319.94922 85.320312 L 341.2793 85.320312 L 341.2793 319.94922 A 21.33 21.33 0 0 0 383.93945 319.94922 L 383.93945 85.320312 L 405.26953 85.320312 A 21.33 21.33 0 0 0 405.26953 42.660156 L 383.93945 42.660156 L 383.93945 21.330078 A 21.33 21.33 0 0 0 362.50391 0 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.jamSettingsAlt = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

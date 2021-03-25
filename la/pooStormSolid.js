@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'las';
+var iconName = 'poo-storm-solid';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 272 64 C 226.592 64 176 105.8125 176 165.8125 L 176 176 L 160 176 C 124.704 176 96 204.704 96 240 C 96 246.528 97.032 252.98102 99 259.125 C 69.528 268.133 48 295.6 48 328 C 48 367.696 80.304 400 120 400 L 240 400 L 240 390.5625 L 172.3125 368 L 120 368 C 97.936 368 80 350.064 80 328 C 80 305.936 97.936 288 120 288 L 160.5625 288 L 136.375 261.25 C 130.983 255.266 128 247.728 128 240 C 128 222.352 142.352 208 160 208 L 208 208 L 208 165.8125 C 208 133.7965 230.818 107.624 255.25 99 C 256.418 129.464 269.63098 142.07 285.375 153.75 C 296.591 162.086 304 167.584 304 192 L 304 208 L 352 208 C 369.648 208 384 222.352 384 240 C 384 247.728 381.017 255.266 375.625 261.25 L 351.4375 288 L 392 288 C 414.064 288 432 305.936 432 328 C 432 350.064 414.064 368 392 368 L 350.78125 368 L 336 400 L 392 400 C 431.696 400 464 367.696 464 328 C 464 295.6 442.488 268.133 413 259.125 C 414.984 252.981 416 246.528 416 240 C 416 204.704 387.296 176 352 176 L 334.9375 176 C 330.8255 147.632 315.8455 136.5105 304.4375 128.0625 C 292.4855 119.1825 284.56225 113.3035 287.90625 81.6875 L 289.78125 64 L 272 64 z M 272 248 L 224 351.5 L 272 367.5 L 272 456 L 320 352 L 272 336 L 272 248 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.lasPooStormSolid = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

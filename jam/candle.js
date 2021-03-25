@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'jam';
+var iconName = 'candle';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 213.30078 0 C 170.64078 53.21835 149.31055 91.611991 149.31055 115.18164 A 63.99 63.99 0 0 0 213.30078 179.17188 A 63.99 63.99 0 0 0 277.28906 115.18164 C 277.28906 91.611991 255.96078 53.21835 213.30078 0 z M 213.30078 73.544922 C 227.52789 92.549952 234.63086 106.2653 234.63086 116.20508 C 234.63086 127.29668 225.07494 137.53516 213.30078 137.53516 C 201.52662 137.53516 191.9707 127.29668 191.9707 116.20508 C 191.9707 106.2653 199.07367 92.549952 213.30078 73.544922 z M 149.31055 191.9707 L 149.31055 362.60938 L 42.660156 362.60938 A 42.66 42.66 0 0 0 0 405.26953 L 0 426.59961 A 42.66 42.66 0 0 0 42.660156 469.25977 L 383.93945 469.25977 A 42.66 42.66 0 0 0 426.59961 426.59961 L 426.59961 405.26953 A 42.66 42.66 0 0 0 383.93945 362.60938 L 277.28906 362.60938 L 277.28906 191.9707 L 149.31055 191.9707 z M 191.9707 234.63086 L 234.63086 234.63086 L 234.63086 362.60938 L 191.9707 362.60938 L 191.9707 234.63086 z M 42.660156 405.26953 L 383.93945 405.26953 L 383.93945 426.59961 L 42.660156 426.59961 L 42.660156 405.26953 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.jamCandle = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

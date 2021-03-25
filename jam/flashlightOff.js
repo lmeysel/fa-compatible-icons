@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'jam';
+var iconName = 'flashlight-off';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 340.21875 17.222656 A 42.66 42.66 0 0 0 310.05273 29.712891 L 264.79102 74.974609 A 85.00005 85.00005 0 0 0 239.96289 129.96289 L 38.564453 331.38281 A 63.99 63.99 0 0 0 38.564453 421.86523 L 68.724609 452.02539 A 63.99 63.99 0 0 0 159.20703 452.02539 L 360.62695 250.62695 A 85.00005 85.00005 0 0 0 415.61523 225.79883 L 460.87695 180.53711 A 42.66 42.66 0 0 0 460.87695 120.2168 L 370.375 29.712891 A 42.66 42.66 0 0 0 340.21875 17.222656 z M 340.21289 59.894531 L 430.69531 150.37695 L 385.45508 195.63867 C 380.03726 201.03516 373.46602 204.7678 366.3418 206.6875 L 283.90234 124.24805 A 42.74532 42.74532 0 0 1 294.95117 105.11328 L 340.21289 59.894531 z M 264.79102 165.45703 L 325.13281 225.77734 L 325.13281 225.79883 L 129.04688 421.86523 A 21.33 21.33 0 0 1 98.886719 421.86523 L 68.724609 391.70508 A 21.33 21.33 0 0 1 68.724609 361.54297 L 264.79102 165.45703 z M 265.01758 204.20703 A 21.33 21.33 0 0 0 249.71094 210.71875 L 219.54883 240.87891 A 21.33 21.33 0 0 0 219.54883 271.04102 A 21.33 21.33 0 0 0 249.71094 271.04102 L 279.87109 240.87891 A 21.33 21.33 0 0 0 265.01758 204.20703 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.jamFlashlightOff = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

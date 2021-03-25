@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'las';
+var iconName = 'book-reader-solid';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 256 64 C 203.1875 64 160 107.1875 160 160 C 160 176.12501 163.9375 191.12501 171 204.5 C 141.8125 197.37501 106.25 192 64 192 L 43.5 192 L 99.5 416 L 112 416 C 166.5 416 200 423.8125 219.5 431 C 229.25 434.62501 235.4375 438.1875 239 440.5 C 242.5625 442.8125 243 443 243 443 L 247.5 448 L 264.5 448 L 269 443 C 269 443 269.43744 442.81248 273 440.5 C 276.5625 438.1875 282.75 434.62501 292.5 431 C 312 423.8125 345.5 416 400 416 L 412.5 416 L 468.5 192 L 448 192 C 405.9375 192 370.4375 197.0625 341.5 204 C 348.37501 190.8125 352 175.87501 352 160 C 352 107.1875 308.8125 64 256 64 z M 256 96 C 291.5625 96 320 124.4375 320 160 C 320 195.5625 291.5625 224 256 224 C 220.4375 224 192 195.5625 192 160 C 192 124.4375 220.4375 96 256 96 z M 85 226 C 134.75 228.4375 175.37501 237.0625 202 247 C 223.4375 255 234 261.1875 240 265 L 240 405 C 237.12501 403.68752 234.5 402.3125 231 401 C 209.37501 393 173.87501 386.25 124.5 385 L 85 226 z M 427 226 L 387.5 385 C 338.12501 386.25008 302.62501 393 281 401 C 277.5 402.31248 274.87501 403.6875 272 405 L 272 265 C 278 261.12501 288.5 254.87501 309.5 247 C 335.9375 237.0625 376.62501 228.4375 427 226 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.lasBookReaderSolid = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

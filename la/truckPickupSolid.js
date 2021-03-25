@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'la';
+var iconName = 'truck-pickup-solid';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 171.5 96 C 157.8125 96 145.3125 104.9375 141 118 L 116.5 192 L 0 192 L 0 323.5 C 0 338.12501 9.812496 350.9375 24 354.5 L 65.5 365 C 71.5 394.0625 97.25 416 128 416 C 157.62501 416 182.37501 395.5 189.5 368 L 338.5 368 C 345.62501 395.5 370.37501 416 400 416 C 429.62501 416 454.37501 395.5 461.5 368 L 480 368 C 497.5 368 512 353.5 512 336 L 512 276 C 512 247.5 492.9375 222.3125 465.5 214.5 L 393 194 L 330.5 119 C 318.3125 104.4375 300.5 96 281.5 96 L 171.5 96 z M 171.5 128 L 224 128 L 224 192 L 150 192 L 171.5 128 z M 256 128 L 281.5 128 C 291 128 299.9375 132.1875 306 139.5 L 350 192 L 256 192 L 256 128 z M 32 224 L 381.5 224 L 457 245.5 C 470.8125 249.4375 480 261.62501 480 276 L 480 336 L 461.5 336 C 454.37501 308.5 429.62501 288 400 288 C 370.37501 288 345.62501 308.5 338.5 336 L 189.5 336 C 182.37501 308.5 157.62501 288 128 288 C 99.625008 288 75.812496 306.75 67.5 332.5 L 32 323.5 L 32 224 z M 128 320 C 145.87501 320 160 334.12501 160 352 C 160 369.87501 145.87501 384 128 384 C 110.12501 384 96 369.87501 96 352 C 96 334.12501 110.12501 320 128 320 z M 400 320 C 417.87501 320 432 334.12501 432 352 C 432 369.87501 417.87501 384 400 384 C 382.12501 384 368 369.87501 368 352 C 368 334.12501 382.12501 320 400 320 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.laTruckPickupSolid = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

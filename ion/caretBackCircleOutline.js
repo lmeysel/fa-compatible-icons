@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'ion';
+var iconName = 'caret-back-circle-outline';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 256 48 C 141.34591 48 48 141.34591 48 256 C 48 370.65409 141.34591 464 256 464 C 370.65409 464 464 370.65409 464 256 C 464 141.34591 370.65409 48 256 48 z M 256 80 C 353.34591 80 432 158.65409 432 256 C 432 353.34591 353.34591 432 256 432 C 158.65409 432 80 353.34591 80 256 C 80 158.65409 158.65409 80 256 80 z M 283.89258 165.87305 A 16 16 0 0 0 273.76953 169.57031 L 184.67969 243.69922 A 16 16 0 0 0 184.67969 268.30078 L 273.76953 342.42969 A 16 16 0 0 0 300 330.14062 L 300 181.85938 A 16 16 0 0 0 283.89258 165.87305 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.ionCaretBackCircleOutline = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

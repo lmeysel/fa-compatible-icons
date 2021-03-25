@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'las';
+var iconName = 'at-solid';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 253.49414 63.996094 C 138.25959 65.550522 46.935555 169.63672 66.5 288.5 C 80 370.4375 147.25 434.87501 229.5 446 C 284.9375 453.5 336.75 437.5 376 406 L 356 381 C 323.25 407.25 280.1875 420.8125 233.5 414.5 C 165.4375 405.3125 109.62501 351.25 98.5 283.5 C 81.75 181.5625 159.87501 94.562496 258.5 96 C 342.5625 97.25 413.4375 166.9375 416 251 C 416.0624 252.8125 416 254.5625 416 256.5 C 415.87501 291.75 387.3125 320 352 320 C 334.12501 320 320 305.87501 320 288 L 320 160 L 288 160 L 288 172.5 C 276.5 164.6875 262.8125 160 248 160 C 208.4375 160 176 192.4375 176 232 L 176 280 C 176 319.5625 208.4375 352 248 352 C 269.5625 352 288.75 342.1875 302 327 C 313.75 341.9375 331.6875 352 352 352 C 404.5625 352 447.8125 309.12501 448 256.5 C 448 254.37501 448.0624 252.3125 448 250 C 444.9375 148.62501 360.37501 65.5 259 64 C 257.15918 63.972656 255.32326 63.97142 253.49414 63.996094 z M 248 192 C 270.25 192 288 209.75 288 232 L 288 280 C 288 302.25 270.25 320 248 320 C 225.75 320 208 302.25 208 280 L 208 232 C 208 209.75 225.75 192 248 192 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.lasAtSolid = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

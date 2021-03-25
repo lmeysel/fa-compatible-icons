@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'jam';
+var iconName = 'eject-square-f';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 85.320312 0 A 85.32 85.32 0 0 0 0 85.320312 L 0 341.2793 A 85.32 85.32 0 0 0 85.320312 426.59961 L 341.2793 426.59961 A 85.32 85.32 0 0 0 426.59961 341.2793 L 426.59961 85.320312 A 85.32 85.32 0 0 0 341.2793 0 L 85.320312 0 z M 213.18359 96.814453 C 221.81949 96.786333 230.55855 99.094164 238.27734 103.94141 A 43.55586 43.55586 0 0 1 250.54297 115.45898 L 312.35742 201.95312 C 326.1366 221.25678 320.65376 247.38472 300.07031 260.33203 C 292.69013 264.98197 284.00984 267.45703 275.11523 267.45703 L 151.48633 267.45703 C 126.7222 267.45703 106.65039 248.6229 106.65039 225.39453 A 40.24971 40.24971 0 0 1 114.24414 201.95312 L 176.05859 115.45898 C 184.68391 103.3942 198.79043 96.861321 213.18359 96.814453 z M 213.30078 138.90039 L 151.50195 225.39453 L 275.11523 225.39453 L 213.30078 138.90039 z M 151.50195 225.39453 L 151.48633 225.39453 L 151.48633 225.41602 L 151.50195 225.39453 z M 127.98047 288.80859 L 298.61914 288.80859 A 21.33 21.33 0 1 1 298.61914 331.46875 L 127.98047 331.46875 A 21.33 21.33 0 0 1 127.98047 288.80859 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.jamEjectSquareF = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

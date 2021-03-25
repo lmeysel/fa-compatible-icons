@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'tb';
+var iconName = 'brand-tiktok';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 277.0957 64.291016 A 21.332133 21.332133 0 0 0 255.96094 85.320312 L 255.96094 341.2793 C 255.96094 367.222 240.42594 390.47138 216.45898 400.39844 C 192.49211 410.32546 165.06951 404.87029 146.72461 386.52539 C 128.37971 368.18049 122.92454 340.75789 132.85156 316.79102 C 142.77862 292.82406 166.028 277.28906 191.9707 277.28906 A 21.33 21.33 0 0 0 213.30078 255.96094 A 21.33 21.33 0 0 0 191.9707 234.63086 C 148.89604 234.63086 109.92271 260.67117 93.439453 300.4668 C 76.956221 340.26238 86.103012 386.23192 116.56055 416.68945 C 147.01808 447.14699 192.98762 456.29378 232.7832 439.81055 C 272.57883 423.32729 298.61914 384.35396 298.61914 341.2793 L 298.61914 180.33984 C 321.3098 200.74452 351.18256 213.30078 383.93945 213.30078 A 21.33 21.33 0 0 0 405.26953 191.9707 A 21.33 21.33 0 0 0 383.93945 170.64062 C 336.56587 170.64062 298.61914 132.69389 298.61914 85.320312 A 21.332133 21.332133 0 0 0 277.0957 64.291016 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.tbBrandTiktok = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

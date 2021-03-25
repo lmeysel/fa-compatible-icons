@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'las';
+var iconName = 'behance';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 16 108 L 16 404 L 159 404 C 172.25 404 263.5 401.3125 263.5 318 C 263.5 265.9375 227.6875 248.25 209.5 243 C 222.87501 236.6875 249.5 221.6875 249.5 181.5 C 249.5 159.12501 246.3125 108 155 108 L 16 108 z M 342 135.5 L 342 162.5 L 452.5 162.5 L 452.5 135.5 L 342 135.5 z M 145.5625 158.44141 C 156.83154 158.36194 186.5 160.07031 186.5 192.5 C 186.5 224.1875 158.5 227.5 147 227.5 L 81 227.5 L 81 158.5 L 142 158.5 C 142.71875 158.5 143.95264 158.45276 145.5625 158.44141 z M 400 187 C 316.4375 187 299 259.5625 299 291 C 299 384.3125 375.5 395 400 395 C 466.0625 395 484.8125 352.25 492.5 328.5 L 444.5 328.5 C 442.62501 334.62501 428.62501 354.5 402 354.5 C 357.37501 354.5 353.5 319.62501 353.5 304 L 495.5 304 C 498.37501 250 474.75 187 400 187 z M 398.5 227.5 C 411.8125 227.5 422.5625 231.37501 429 238.5 C 435.4375 245.6875 440.1875 256.1875 441.5 270 L 353.5 270 C 353.75008 266.1875 354.62496 261.8125 356 257 C 357.37504 252.0625 359.5 247.37501 363 243 C 366.5 238.6875 371.37501 234.9375 377 232 C 382.75 229 389.87501 227.5 398.5 227.5 z M 81 272 L 151.5 272 C 165.5 272 198.5 274.1875 198.5 314.5 C 198.5 353.5625 156.9375 353.5 150.5 353.5 L 81 353.5 L 81 272 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.lasBehance = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

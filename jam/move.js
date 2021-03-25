@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'jam';
+var iconName = 'move';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 241.27734 1.2207031 A 21.33 21.33 0 0 0 226.24805 7.4648438 L 165.9043 67.808594 A 21.33 21.33 0 0 0 196.06445 97.96875 L 219.99805 74.078125 L 219.99805 212.36133 L 81.650391 212.36133 L 105.58398 188.47266 A 21.341867 21.341867 0 0 0 75.423828 158.26953 L 15.080078 218.63281 A 21.33 21.33 0 0 0 15.080078 248.79297 L 75.423828 309.11523 A 21.33 21.33 0 0 0 105.58398 278.95312 L 81.650391 255.04297 L 219.99805 255.04297 L 219.99805 393.36719 L 196.06445 369.45703 A 21.33 21.33 0 0 0 165.9043 399.61719 L 226.24805 459.96094 A 21.33 21.33 0 0 0 256.4082 459.96094 L 316.72852 399.61719 A 21.33 21.33 0 0 0 286.56836 369.45703 L 262.6582 393.36719 L 262.6582 255.04297 L 400.98242 255.04297 L 377.07227 278.95312 A 21.33 21.33 0 0 0 407.23242 309.11523 L 467.55273 248.79297 A 21.33 21.33 0 0 0 467.55273 218.63281 L 407.23242 158.28906 A 21.334322 21.334322 0 1 0 377.07227 188.47266 L 400.98242 212.38281 L 262.6582 212.38281 L 262.6582 74.058594 L 286.56836 97.96875 A 21.33 21.33 0 1 0 316.72852 67.808594 L 256.4082 7.4648438 A 21.33 21.33 0 0 0 241.27734 1.2207031 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.jamMove = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

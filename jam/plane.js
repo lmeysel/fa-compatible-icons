@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'jam';
+var iconName = 'plane';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 372.20508 18.669922 A 59.85198 59.85198 0 0 0 329.61328 36.708984 L 253.95508 112.36719 L 89.820312 50.830078 L 33.380859 107.24805 L 166.75781 199.56445 L 101.91406 264.40625 L 62.048828 247.85547 L 5.1835938 304.7207 L 89.820312 361.16016 L 146.23828 445.77539 L 203.10352 388.93164 L 186.53125 349.04492 L 251.375 284.20117 L 343.72461 417.56641 L 400.15039 361.16016 L 338.5918 197.00391 L 414.25 121.3457 A 59.85198 59.85198 0 0 0 372.20508 18.669922 z M 343.72461 417.56641 L 343.71094 417.57812 L 343.73242 417.57812 L 343.72461 417.56641 z M 372.00391 59.083984 A 19.954263 19.954263 0 0 1 386.05078 93.148438 L 292.19922 186.95703 L 353.7793 351.11328 L 349.30078 355.54883 L 256.98438 222.19531 L 139.47656 339.67969 L 156.0293 379.56641 L 152.44531 383.15039 L 118.57422 332.38477 L 67.808594 298.53516 L 71.371094 294.92969 L 111.25781 311.50391 L 228.76367 193.97461 L 95.388672 101.6582 L 99.867188 97.201172 L 263.98047 158.75977 L 357.83203 64.927734 A 19.954263 19.954263 0 0 1 372.00391 59.083984 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.jamPlane = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

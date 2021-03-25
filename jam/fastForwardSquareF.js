@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'jam';
+var iconName = 'fast-forward-square-f';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 85.320312 0 A 85.32 85.32 0 0 0 0 85.320312 L 0 341.2793 A 85.32 85.32 0 0 0 85.320312 426.59961 L 341.2793 426.59961 A 85.32 85.32 0 0 0 426.59961 341.2793 L 426.59961 85.320312 A 85.32 85.32 0 0 0 341.2793 0 L 85.320312 0 z M 129.68555 106.65039 A 41.23089 41.23089 0 0 1 160.55078 120.87695 L 174.86328 137.04492 C 180.79302 119.31969 196.51275 106.65039 215.00586 106.65039 A 41.23089 41.23089 0 0 1 245.87109 120.87695 L 299.53711 181.49609 L 299.53711 127.98047 A 21.33 21.33 0 1 1 342.19727 127.98047 L 342.19727 298.61914 A 21.33 21.33 0 0 1 299.53711 298.61914 L 299.53711 247.44922 L 245.29492 306.36328 A 40.527 40.527 0 0 1 184.95312 306.59766 C 180.53781 301.8624 177.1662 296.18765 175.0332 290.00195 L 159.97461 306.36328 A 40.527 40.527 0 0 1 99.632812 306.59766 C 91.570072 297.95901 87.027344 286.22764 87.027344 273.96289 L 87.027344 152.63672 C 87.027344 127.23269 106.13723 106.65039 129.68555 106.65039 z M 213.36328 153.29883 L 213.36328 274.62305 L 268.11719 215.15625 L 213.36328 153.29883 z M 127.4043 154.47266 L 127.4043 275.79688 L 173.07227 226.18359 L 172.98633 205.96289 L 127.4043 154.47266 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.jamFastForwardSquareF = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

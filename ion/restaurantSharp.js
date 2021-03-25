@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'ion';
+var iconName = 'restaurant-sharp';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 48 16 C 3.72 70.87 29.870703 171.71031 79.720703 221.57031 L 165.2207 307.07031 C 191.7707 333.62031 197.04016 335.98914 227.16016 323.86914 C 233.65016 321.25914 236.01055 321.54984 242.06055 327.58984 L 255.06055 339.7207 C 257.99055 342.7207 258.06055 343.59984 258.06055 349.33984 L 258.06055 354.88086 C 258.06055 375.96086 271.53992 388.07914 280.41992 397.11914 L 384 496 L 456 424 L 299.57031 267.07031 L 342.69922 223.93945 L 357.57031 223.93945 A 79.48 79.48 0 0 0 414.15039 200.5 L 496 118 L 473.7793 95.599609 L 390.19922 179.17969 L 372.83008 161.81055 L 456.41016 78.220703 L 433.41016 55.910156 L 350.14062 139.16992 L 332.82031 121.80078 L 416.40039 38.210938 L 394 16 L 311.5 97.849609 A 79.49 79.49 0 0 0 288.06055 154.43945 L 288.06055 169.30078 L 244.92969 212.42969 L 48 16 z M 123.08984 310.19922 L 16 416 L 96 496 L 240 352 L 227.36914 354.58984 C 197.54914 360.69984 179.25906 366.32938 144.28906 331.35938 C 143.72906 330.79937 143.14984 330.25922 142.58984 329.69922 L 123.08984 310.19922 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.ionRestaurantSharp = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

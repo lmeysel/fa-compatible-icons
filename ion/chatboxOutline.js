@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'ion';
+var iconName = 'chatbox-outline';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 103.95508 48 C 64.448789 48.112394 32.112394 80.448789 32 119.95508 A 16.0016 16.0016 0 0 0 32 120 L 32 312 A 16.0016 16.0016 0 0 0 32 312.04492 C 32.112394 351.55121 64.448789 383.88761 103.95508 384 A 16.0016 16.0016 0 0 0 104 384 L 128 384 L 128 448 A 16.0016 16.0016 0 0 0 154.24609 460.28906 L 245.74609 384 L 408 384 A 16.0016 16.0016 0 0 0 408.04492 384 C 447.55121 383.88761 479.88761 351.55121 480 312.04492 A 16.0016 16.0016 0 0 0 480 312 L 480 120 A 16.0016 16.0016 0 0 0 480 119.95508 C 479.88761 80.448789 447.55121 48.112394 408.04492 48 A 16.0016 16.0016 0 0 0 408 48 L 104 48 A 16.0016 16.0016 0 0 0 103.95508 48 z M 104.04492 80 L 407.95508 80 C 430.23173 80.063376 447.93662 97.768272 448 120.04492 L 448 311.95508 C 447.93662 334.23173 430.23173 351.93662 407.95508 352 L 242.85352 352 L 242.84961 352 C 237.23405 351.99979 231.78668 353.97336 227.47461 357.57031 L 160 413.82812 L 160 368 A 16.0016 16.0016 0 0 0 144 352 L 104.04492 352 C 81.768272 351.93662 64.063376 334.23173 64 311.95508 L 64 120.04492 C 64.063376 97.768272 81.768272 80.063376 104.04492 80 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.ionChatboxOutline = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

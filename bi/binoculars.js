@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'bi';
+var iconName = 'binoculars';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 143.75586 32 A 48 48 0 0 0 96 80 L 96 156.22461 A 16 16 0 0 1 87.167969 170.52734 L 58.560547 184.83203 A 48 48 0 0 0 32 227.77539 L 32 464 A 48 48 0 0 0 80 512 L 176 512 A 48 48 0 0 0 224 464 L 224 368 A 16 16 0 0 0 219.32812 356.67188 L 192 329.37695 L 192 304 A 16 16 0 0 1 208 288 L 304 288 A 16 16 0 0 1 320 304 L 320 329.37695 L 292.67188 356.67188 A 16 16 0 0 0 288 368 L 288 464 A 48 48 0 0 0 336 512 L 432 512 A 48 48 0 0 0 480 464 L 480 227.77539 A 48 48 0 0 0 453.47266 184.83203 L 424.83203 170.52734 A 16 16 0 0 1 416 156.22461 L 416 80 A 48 48 0 0 0 368 32 L 336 32 A 48 48 0 0 0 288 80 L 288 160 L 224 160 L 224 80 A 48 48 0 0 0 176 32 L 144 32 A 48 48 0 0 0 143.75586 32 z M 144 64 L 176 64 A 16 16 0 0 1 192 80 L 192 96 L 128 96 L 128 80 A 16 16 0 0 1 144 64 z M 336 64 L 368 64 A 16 16 0 0 1 384 80 L 384 96 L 320 96 L 320 80 A 16 16 0 0 1 336 64 z M 128 128 L 192 128 L 192 176 A 16 16 0 0 0 208 192 L 304 192 A 16 16 0 0 0 320 176 L 320 128 L 384 128 L 384 156.22461 A 48 48 0 0 0 410.52734 199.16797 L 439.16797 213.47266 A 16 16 0 0 1 448 227.77539 L 448 416 L 320 416 L 320 374.62305 L 347.32812 347.32812 A 16 16 0 0 0 352 336 L 352 304 A 48 48 0 0 0 304 256 L 208 256 A 48 48 0 0 0 160 304 L 160 336 A 16 16 0 0 0 164.67188 347.32812 L 192 374.62305 L 192 416 L 64 416 L 64 227.77539 A 16 16 0 0 1 72.832031 213.47266 L 101.43945 199.16797 A 48 48 0 0 0 128 156.22461 L 128 128 z M 64 448 L 192 448 L 192 464 A 16 16 0 0 1 176 480 L 80 480 A 16 16 0 0 1 64 464 L 64 448 z M 320 448 L 448 448 L 448 464 A 16 16 0 0 1 432 480 L 336 480 A 16 16 0 0 1 320 464 L 320 448 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.biBinoculars = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

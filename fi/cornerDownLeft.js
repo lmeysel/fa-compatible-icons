@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'fi';
+var iconName = 'corner-down-left';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 426.59961 63.990234 A 21.33 21.33 0 0 0 405.26953 85.320312 L 405.26953 234.63086 C 405.26953 270.22421 376.87264 298.61914 341.2793 298.61914 L 136.8125 298.61914 L 207.05078 228.38086 A 21.33 21.33 0 0 0 207.05078 198.21875 A 21.33 21.33 0 0 0 192.5957 191.9707 A 21.33 21.33 0 0 0 176.88867 198.21875 L 70.367188 304.74023 A 21.33 21.33 0 0 0 70.275391 304.83008 L 70.238281 304.86914 A 21.33 21.33 0 0 0 69.4375 305.71484 A 21.33 21.33 0 0 0 63.990234 319.94922 A 21.33 21.33 0 0 0 67.701172 331.96875 A 21.33 21.33 0 0 0 68.867188 333.52148 A 21.33 21.33 0 0 0 69.117188 333.81836 A 21.33 21.33 0 0 0 69.146484 333.85352 A 21.332133 21.332133 0 0 0 69.373047 334.11133 A 21.33 21.33 0 0 0 70.169922 334.96094 A 21.33 21.33 0 0 0 70.230469 335.02344 A 21.332133 21.332133 0 0 0 70.238281 335.03125 A 21.33 21.33 0 0 0 70.476562 335.26758 L 176.88867 441.68164 A 21.33 21.33 0 0 0 207.05078 441.68164 A 21.33 21.33 0 0 0 207.05078 411.51953 L 136.8125 341.2793 L 341.2793 341.2793 C 399.92782 341.2793 447.92969 293.27938 447.92969 234.63086 L 447.92969 85.320312 A 21.33 21.33 0 0 0 426.59961 63.990234 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.fiCornerDownLeft = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

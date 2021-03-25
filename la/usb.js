@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'la';
+var iconName = 'usb';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 256 48 L 208 128 L 240 128 L 240 321 C 227.5 315.75 214.5625 313.75 202.5 312 C 188.5 310 175.75 308 169 304.5 C 162.25 301 160 299.3125 160 288 L 160 251.5 C 169.5625 245.9375 176 235.8125 176 224 C 176 206.3125 161.6875 192 144 192 C 126.3125 192 112 206.3125 112 224 C 112 235.8125 118.4375 245.9375 128 251.5 L 128 288 C 128 308.6875 139.75 325 154 332.5 C 168.25 340 183.5 342 197.5 344 C 211.5 346 224.25 348 231 351.5 C 237.75 355 240 356.6875 240 368 L 240 369.5 L 240 371 C 221.4375 377.62501 208 395.1875 208 416 C 208 442.5 229.5 464 256 464 C 282.5 464 304 442.5 304 416 C 304 395.1875 290.5625 377.62501 272 371 C 272.1248 370 272.1248 369 272 368 L 272 338.5 C 272.0624 337.68752 272.0624 336.8125 272 336 C 272 325.3125 275.0625 322.1875 284 317 C 292.9375 311.8125 308 307.5 324 303.5 C 340 299.5 356.9375 295.8125 372 287 C 387.0625 278.1875 400 261.3125 400 240 L 400 208 L 416 208 L 416 144 L 352 144 L 352 208 L 368 208 L 368 240 C 368 250.6875 364.9375 253.8125 356 259 C 347.0625 264.1875 332 268.5 316 272.5 C 301.37501 276.12501 286 279.75 272 287 L 272 128 L 304 128 L 256 48 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.laUsb = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

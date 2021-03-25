@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'tb';
+var iconName = 'brand-bing';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 106.53516 42.662109 A 21.332133 21.332133 0 0 0 85.320312 63.990234 L 85.320312 405.26953 A 21.332133 21.332133 0 0 0 97.111328 424.34766 L 182.43164 467.00781 A 21.332133 21.332133 0 0 0 201.50977 467.00781 L 414.80859 360.35742 A 21.332133 21.332133 0 0 0 426.59961 341.2793 L 426.59961 245.29492 A 21.332133 21.332133 0 0 0 412.44336 225.20703 L 263.13477 171.88281 A 21.332133 21.332133 0 0 0 235.26758 197.14258 L 256.59766 282.46289 A 21.332133 21.332133 0 0 0 267.75 296.36719 L 268.72656 296.85547 L 213.30078 319.94922 L 213.30078 95.984375 A 21.332133 21.332133 0 0 0 199.45898 76.013672 L 114.13867 44.017578 A 21.332133 21.332133 0 0 0 106.53516 42.662109 z M 127.98047 94.769531 L 170.64062 110.76758 L 170.64062 351.94531 A 21.332133 21.332133 0 0 0 200.17383 371.63477 L 328.1543 318.30859 A 21.332133 21.332133 0 0 0 329.48828 279.54102 L 295.60352 262.59961 L 286.31836 225.46094 L 383.93945 260.32617 L 383.93945 328.09766 L 191.9707 424.08203 L 127.98047 392.08789 L 127.98047 94.769531 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.tbBrandBing = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;

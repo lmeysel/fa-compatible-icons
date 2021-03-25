@@ -1,0 +1,29 @@
+'use strict';
+Object.defineProperty(exports, '__esModule', { value: true });
+var prefix = 'bi';
+var iconName = 'people';
+var width = 512;
+var height = 512;
+var ligatures = [];
+var unicode = null;
+var svgPathData = 'M 351.97852 64 A 96 96 0 0 0 256 160 A 96 96 0 0 0 448 160 A 96 96 0 0 0 351.97852 64 z M 143.97852 80 A 96 96 0 0 0 48 176 A 96 96 0 0 0 240 176 A 96 96 0 0 0 143.97852 80 z M 352 96 A 64 64 0 0 1 352 224 A 64 64 0 0 1 352 96 z M 144 112 A 64 64 0 0 1 144 240 A 64 64 0 0 1 144 112 z M 160 288 C 32 288 0 384 0 416 C 0 437.344 10.656 448 32 448 L 166.91211 448 A 71.616 71.616 0 0 1 160 416 C 160 383.68 172.06486 350.65627 194.88086 323.07227 C 202.65686 313.66427 211.71117 304.86494 221.95117 296.96094 A 188.16 188.16 0 0 0 182.5918 289.05664 A 235.2 235.2 0 0 0 160 288 z M 352 288 C 224 288 192 384 192 416 C 192 448 224 448 224 448 L 480 448 C 480 448 512 448 512 416 C 512 384 480 288 352 288 z M 352 320 C 406.944 320 437.98369 340.16003 455.67969 360.83203 C 474.65569 382.91203 479.936 407.45509 480 415.87109 L 479.74414 415.93555 A 8.768 8.768 0 0 1 479.29688 416 L 224.70312 416 A 8.352 8.352 0 0 1 224 415.87109 C 224.032 407.42309 229.34431 382.91203 248.32031 360.83203 C 265.98431 340.12803 297.024 320 352 320 z M 157.41797 320.03125 A 175.776 175.776 0 0 0 128 416 L 32 416 C 32 407.68 37.248312 383.04003 56.320312 360.83203 C 73.757941 340.4828 104.0555 320.6444 157.41797 320.03125 z ';
+
+exports.definition = {
+  prefix: prefix,
+  iconName: iconName,
+  icon: [
+    width,
+    height,
+    ligatures,
+    unicode,
+    svgPathData
+  ]};
+	
+exports.biPeople = exports.definition;
+exports.prefix = prefix;
+exports.iconName = iconName;
+exports.width = width;
+exports.height = height;
+exports.ligatures = ligatures;
+exports.unicode = unicode;
+exports.svgPathData = svgPathData;
