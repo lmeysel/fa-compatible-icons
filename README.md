@@ -4,16 +4,16 @@ This repository collects converted icon sets to use them with FontAwesome tools.
 
 The following sets are included:
 
-| Set | Prefix | Count | Version | Docs |`
-| --- | --- | ---:| --- | --- | --- |
+| Set | Prefix | Count | Version | Docs |
+| --- | --- | ---:| --- | --- |
 | [UiKit Icons](https://htmlpreview.github.io/?https://github.com/lmeysel/fa-compatible-icons/blob/master/_sprites/uk.html) |`uk` | 143 | 3.6.18 | https://getuikit.com/docs/icon |
-| [Feather Icons](https://htmlpreview.github.io/?https://github.com/lmeysel/fa-compatible-icons/blob/master/_sprites/fi.html) |`fi` | 286 | 4.28.0 | https://github.com/feathericons/feather#readme |
+| [Feather Icons](https://htmlpreview.github.io/?https://github.com/lmeysel/fa-compatible-icons/blob/master/_sprites/fi.html) |`fi` | 286 | 4.28.0 | https://feathericons.com |
 | [Bootstrap Icons](https://htmlpreview.github.io/?https://github.com/lmeysel/fa-compatible-icons/blob/master/_sprites/bi.html) |`bi` | 1325 | 1.4.0 | https://icons.getbootstrap.com/ |
-| [Tabler Icons](https://htmlpreview.github.io/?https://github.com/lmeysel/fa-compatible-icons/blob/master/_sprites/tb.html) |`tb` | 1262 | 1.39.1 | https://github.com/tabler/tabler-icons#readme |
+| [Tabler Icons](https://htmlpreview.github.io/?https://github.com/lmeysel/fa-compatible-icons/blob/master/_sprites/tb.html) |`tb` | 1262 | 1.39.1 | https://tablericons.com |
 | [IonIcons](https://htmlpreview.github.io/?https://github.com/lmeysel/fa-compatible-icons/blob/master/_sprites/ion.html) |`ion` | 1332 | 5.5.1 | http://ionicons.com/ |
-| [JAM Icons](https://htmlpreview.github.io/?https://github.com/lmeysel/fa-compatible-icons/blob/master/_sprites/jam.html) |`jam` | 896 | 2.0.0 | https://github.com/michaelampr/jam#readme |
+| [JAM Icons](https://htmlpreview.github.io/?https://github.com/lmeysel/fa-compatible-icons/blob/master/_sprites/jam.html) |`jam` | 896 | 2.0.0 | https://jam-icons.com |
 | [Line Awesome Icons](https://htmlpreview.github.io/?https://github.com/lmeysel/fa-compatible-icons/blob/master/_sprites/la.html) |`la` | 1544 | 1.3.0 | https://icons8.com/line-awesome |
-| [Pixelart Icons](https://htmlpreview.github.io/?https://github.com/lmeysel/fa-compatible-icons/blob/master/_sprites/pa.html) |`pa` | 460 | 1.4.0 | https://github.com/halfmage/pixelarticons#readme |
+| [Pixelart Icons](https://htmlpreview.github.io/?https://github.com/lmeysel/fa-compatible-icons/blob/master/_sprites/pa.html) |`pa` | 460 | 1.4.0 | https://pixelarticons.com/ |
 
 
 ## Usage
