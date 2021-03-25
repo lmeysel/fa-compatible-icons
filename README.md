@@ -19,7 +19,7 @@ The following sets are included:
 ## Usage
 
 Install repository
-`npm i -D git+ssh://git@github.com:lmeysel/fa-compatible-icons.git`
+`npm i -D https://github.com/lmeysel/fa-compatible-icons.git`
 
 And use icons with the [known FontAwesome tools](https://fontawesome.com/how-to-use/on-the-web/advanced/svg-javascript-core#comparing):
 
