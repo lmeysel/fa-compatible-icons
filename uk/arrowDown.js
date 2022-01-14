@@ -6,7 +6,7 @@ var width = 512;
 var height = 512;
 var ligatures = [];
 var unicode = null;
-var svgPathData = 'M 250 100 L 250 350.63867 L 159.25 250 L 140.75 266.5 L 262.5 402 L 384.25 266.5 L 365.75 250 L 275 350.63867 L 275 100 L 250 100 z ';
+var svgPathData = 'M 256 102.40039 L 256 359.05273 L 163.07227 256 L 144.12891 272.89648 L 268.80078 411.64844 L 393.47266 272.89648 L 374.52734 256 L 281.59961 359.05469 L 281.59961 102.40039 L 256 102.40039 z ';
 
 exports.definition = {
   prefix: prefix,

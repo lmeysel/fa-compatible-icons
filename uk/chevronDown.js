@@ -6,7 +6,7 @@ var width = 512;
 var height = 512;
 var ligatures = [];
 var unicode = null;
-var svgPathData = 'M 109.08203 165.91797 L 90.917969 184.08203 L 250 343.21289 L 409.08203 184.08203 L 390.91797 165.91797 L 250 306.83594 L 109.08203 165.91797 z ';
+var svgPathData = 'M 111.69922 169.90039 L 93.099609 188.5 L 256 351.44922 L 418.90039 188.5 L 400.30078 169.90039 L 256 314.19922 L 111.69922 169.90039 z ';
 
 exports.definition = {
   prefix: prefix,
